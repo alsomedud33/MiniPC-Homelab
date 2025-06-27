@@ -4,8 +4,9 @@ Personal home lab using Proxmox, Jellyfin and Tailscale.
 ## 🖥️ Home Lab Setup: Proxmox, Jellyfin, NAS & Remote Access via Tailscale
 
 ### 📌 Overview
+This project is a documention of the setup for my personal home lab using my miniPC and Proxmox VE.
+My goal is to gain hands-on experience with virtualization, containerization, and self-hosted services while building a functional environment that can act as a LAN-accessible NAS and media server with secure external access.
 ![HomeLab Setup](https://github.com/user-attachments/assets/ebf81ac7-51eb-4ead-8083-9be0c25b8957)
-This project is a documention of the setup for my personal home lab using a miniPC and Proxmox VE. My goal was to gain hands-on experience with virtualization, containerization, and self-hosted services while building a functional environment that could act as a LAN-accessible NAS and media server with secure external access.
 
 ---
 ### 🧰 Hardware & Software Used
